@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gastos em Viagem</string>
+    <string name="nova_viagem">Nova Viagem</string>
+    <string name="gastos">Novo Gasto</string>
+    <string name="minhas_viagens">Minhas Viagens</string>
+    <string name="destino">Destino</string>
+    <string name="tipo_viagem">Tipo de Viagem</string>
+    <string name="button_lazer">Lazer</string>
+    <string name="button_trabalho">Trabalho</string>
+    <string name="label_data_viagem">Data da Viagem</string>
+    <string name="data">Data</string>
+    <string name="button_salvar">Salvar</string>
+</resources>
